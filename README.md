@@ -7,6 +7,11 @@ BA, Data Sciences (Graduating june 2026)
 
 ### Coursework
 * Structure & Interpertation of Computer Programs (Python, Scheme, SQL)
+* Foundations of Data Science (Python)
+* Computational Structures in Data Science(Python)
+* Analytic Geometry & Calculus
+* Linear Algebra & Differential Equations
+* Data Structures & Algorithms (Java)
 
 
 ## Languages and Tools
