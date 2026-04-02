@@ -3,7 +3,7 @@
 # 🎓 Education
 
 ## University of California, Berkeley
-BA, Data Sciences (Graduating june 2026)
+BA, Data Sciences (Graduating May 2026)
 
 ### Coursework
 * Structure & Interpertation of Computer Programs (Python, Scheme, SQL)
