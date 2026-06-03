@@ -1,9 +1,9 @@
-# Hello I'm Rahma! 👋🏽 Aspiring Data Scientist 💻
+# Hello I'm Rahma! Aspiring Data Scientist 💻
 
 # 🎓 Education
 
 ## University of California, Berkeley
-BA, Data Sciences (Graduating May 2026)
+BA, Data Sciences (Graduated: May 2026)
 
 ### Coursework
 * Structure & Interpertation of Computer Programs (Python, Scheme, SQL)
